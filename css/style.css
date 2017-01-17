@@ -1,0 +1,187 @@
+* {
+    box-sizing: border-box;
+}
+img{
+   width: 100%;
+   display: block;
+}
+body{
+  background-color: #E3E3E3;
+  font-size: 0;
+  font-family: "Helvetica Neue", Helvetica, sans-serif
+}
+#container{
+  width: 980px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+#container main{
+  display: inline-block;
+}
+.logo-label{
+  background-color: #2C2C2C;
+  width: 100%;
+}
+.logo-label div{
+  display: inline-block;
+}
+.logo{
+  width: 17%;
+}
+.label{
+  width: 60%;
+}
+.main-nav{
+  background-color: #2C2C2C;
+  width: 100%;
+}
+.main-nav ul{
+  padding-left: 25px;
+}
+.main-nav ul li{
+  font-size: 12px;
+  background-color: #2C2C2C;
+  color: white;
+  list-style: none;
+  padding: 8px;
+  display: inline-block;
+  padding-left: 0;
+  padding-right: 25px;
+}
+.second-nav li{
+  font-size: 14px;
+  list-style: none;
+  display: inline-block;
+  margin-right: 12px;
+  margin-top: 35px;
+}
+.yellow{
+  background-color: #FFFBD5;
+  padding: 5px;
+
+}
+.blue{
+  background-color: #D5EDFF;
+  padding: 5px;
+}
+.main-content{
+  width: 70%;
+  padding-left: 30px;
+  padding-top: 20px;
+  margin-right: 60px;
+}
+.main-content h1{
+  font-size: 24px;
+}
+.main-content h2{
+  font-size: 22px;
+}
+.main-content p{
+  font-size: 12px;
+}
+.main-content a{
+  font-size: 12px;
+  text-decoration: none;
+}
+.content{
+  margin-bottom: 20px;
+}
+.content div{
+  display: inline-block;
+}
+.content p{
+  padding-bottom: 10px;
+}
+.description{
+  width: 40%;
+  vertical-align: top
+}
+.image{
+  width: 55%;
+  margin-left: 20px;
+}
+.image img{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.column-two{
+  width: 20%;
+  margin-left: 8px;
+  vertical-align: top;
+  margin-right: auto;
+  margin-left: auto;
+}
+.column-two h2{
+  font-size: 18px;
+}
+.column-two h6{
+  font-size: 10px;
+  margin-bottom: 0;
+  margin-top: 0px;
+}
+.column-two p{
+  font-size: 11px;
+  margin-top: 2px;
+  margin-bottom: 0;
+}
+.column-two a{
+  font-size: 11px;
+  text-decoration: none;
+}
+.column-two a span{
+  padding-left: 130px;
+}
+.gallery-talks{
+  margin: 0;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.gallery-talks div{
+  display: inline-block;
+}
+.gallery-image{
+  width: 30%;
+}
+.gallery-description{
+  width: 50%;
+  margin-left: 10px;
+  vertical-align: top;
+}
+.gallery-description p{
+  padding-top: 10px;
+}
+footer{
+  font-size: 10px;
+}
+footer ul li{
+  list-style: none;
+  display: inline-block;
+  padding-right: 60px;
+  margin-bottom: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+.red{
+  color: red;
+}
+.fixed-box{
+  background-color: blue;
+  font-size: 12px;
+  width: 265px;
+  color: white;
+  padding-left: 12px;
+  padding-top: 3px;
+  padding-right: 30px;
+  padding-bottom: 10px;
+  position: fixed;
+  right: 15px;;
+  bottom: 50px;
+}
+input{
+  width: 240px;
+  height: 25px;
+}
+hr{
+  color: #E8E8E8;
+}
